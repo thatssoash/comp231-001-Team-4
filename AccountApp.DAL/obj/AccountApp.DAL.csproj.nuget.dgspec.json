@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp.DAL\\AccountApp.DAL.csproj": {}
+    "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp.DAL\\AccountApp.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp.DAL\\AccountApp.DAL.csproj": {
+    "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp.DAL\\AccountApp.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp.DAL\\AccountApp.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp.DAL\\AccountApp.DAL.csproj",
         "projectName": "AccountApp.DAL",
-        "projectPath": "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp.DAL\\AccountApp.DAL.csproj",
+        "projectPath": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp.DAL\\AccountApp.DAL.csproj",
         "packagesPath": "C:\\Users\\Thinksysuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thinksysuser\\AppData\\Roaming\\NuGet\\NuGet.Config",

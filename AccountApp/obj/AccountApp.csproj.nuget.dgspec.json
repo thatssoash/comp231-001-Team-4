@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp\\AccountApp.csproj": {}
+    "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp\\AccountApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp\\AccountApp.csproj": {
+    "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp\\AccountApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp\\AccountApp.csproj",
+        "projectUniqueName": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp\\AccountApp.csproj",
         "projectName": "AccountApp",
-        "projectPath": "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp\\AccountApp.csproj",
+        "projectPath": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp\\AccountApp.csproj",
         "packagesPath": "C:\\Users\\Thinksysuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thinksysuser\\Desktop\\Client_Projects\\Account_App\\AccountApp\\AccountApp\\obj\\",
+        "outputPath": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thinksysuser\\AppData\\Roaming\\NuGet\\NuGet.Config",

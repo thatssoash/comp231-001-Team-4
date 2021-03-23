@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AccountApp.BOL;
+using AccountApp.BOL.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,6 +27,7 @@ namespace AccountApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddTransient<IBusinessDBL, BusinessDBL>();
 
             services.AddDbContext<AccountAppDbContext>(options =>
                             options.UseSqlServer(@"Server=accountappdb.database.windows.net;Database=AccountAppDB;User Id=accountappdbAdmin;password=Account@123;Trusted_Connection=False;")

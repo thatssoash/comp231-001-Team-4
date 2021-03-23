@@ -2,9 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AccountApp.BOL;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,6 +26,10 @@ namespace AccountApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<AccountAppDbContext>(options =>
+                            options.UseSqlServer(@"Server=accountappdb.database.windows.net;Database=AccountAppDB;User Id=accountappdbAdmin;password=Account@123;Trusted_Connection=False;")
+                            );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

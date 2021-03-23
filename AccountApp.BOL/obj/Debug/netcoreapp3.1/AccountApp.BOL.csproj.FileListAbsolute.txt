@@ -12,6 +12,9 @@ C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\bin\Deb
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\obj\Debug\netcoreapp3.1\AccountApp.BOL.csprojAssemblyReference.cache
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\obj\Debug\netcoreapp3.1\AccountApp.BOL.AssemblyInfoInputs.cache
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\obj\Debug\netcoreapp3.1\AccountApp.BOL.AssemblyInfo.cs
-C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\obj\Debug\netcoreapp3.1\AccountApp.BOL.csproj.CoreCompileInputs.cache
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\obj\Debug\netcoreapp3.1\AccountApp.BOL.dll
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\obj\Debug\netcoreapp3.1\AccountApp.BOL.pdb
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\bin\Debug\netcoreapp3.1\AccountApp.BOL.runtimeconfig.json
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\bin\Debug\netcoreapp3.1\AccountApp.BOL.runtimeconfig.dev.json
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\obj\Debug\netcoreapp3.1\AccountApp.BOL.genruntimeconfig.cache
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.BOL\obj\Debug\netcoreapp3.1\AccountApp.BOL.csproj.CoreCompileInputs.cache

@@ -7,3 +7,12 @@ C:\Users\Thinksysuser\Desktop\Client_Projects\Account_App\AccountApp\AccountApp.
 C:\Users\Thinksysuser\Desktop\Client_Projects\Account_App\AccountApp\AccountApp.DAL\obj\Debug\netcoreapp3.1\AccountApp.DAL.csproj.CoreCompileInputs.cache
 C:\Users\Thinksysuser\Desktop\Client_Projects\Account_App\AccountApp\AccountApp.DAL\obj\Debug\netcoreapp3.1\AccountApp.DAL.dll
 C:\Users\Thinksysuser\Desktop\Client_Projects\Account_App\AccountApp\AccountApp.DAL\obj\Debug\netcoreapp3.1\AccountApp.DAL.pdb
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.DAL\bin\Debug\netcoreapp3.1\AccountApp.DAL.deps.json
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.DAL\bin\Debug\netcoreapp3.1\AccountApp.DAL.dll
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.DAL\bin\Debug\netcoreapp3.1\AccountApp.DAL.pdb
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.DAL\obj\Debug\netcoreapp3.1\AccountApp.DAL.csprojAssemblyReference.cache
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.DAL\obj\Debug\netcoreapp3.1\AccountApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.DAL\obj\Debug\netcoreapp3.1\AccountApp.DAL.AssemblyInfo.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.DAL\obj\Debug\netcoreapp3.1\AccountApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.DAL\obj\Debug\netcoreapp3.1\AccountApp.DAL.dll
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp.DAL\obj\Debug\netcoreapp3.1\AccountApp.DAL.pdb

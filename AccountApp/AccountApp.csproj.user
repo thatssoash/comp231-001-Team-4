@@ -14,5 +14,6 @@
     <WebStackScaffolding_DbContextTypeFullName>AccountApp.BOL.AccountAppDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>AccountApp20210324040034 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -2,18 +2,19 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AccountApp.BOL;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using AccountApp.BOL;
+//using AccountApp.BOL;
 
 namespace AccountApp.Controllers
 {
     public class BusinessesController : Controller
     {
-        private readonly AccountAppDbContext _context;
+        private readonly BOL.AccountAppDbContext _context;
 
-        public BusinessesController(AccountAppDbContext context)
+        public BusinessesController(BOL.AccountAppDbContext context)
         {
             _context = context;
         }
@@ -85,7 +86,7 @@ namespace AccountApp.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,BusinessNo,BusinessName,HstGstNumber,Phone,Email,Address")] Business business)
+        public async Task<IActionResult> Edit(int id,BOL.Business business)
         {
             if (id != business.Id)
             {

@@ -3,14 +3,16 @@ using AccountApp.BOL;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AccountApp.BOL.Migrations
 {
     [DbContext(typeof(AccountAppDbContext))]
-    partial class AccountAppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20210325161447_UserTypeUpdatedForValidation")]
+    partial class UserTypeUpdatedForValidation
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -75,6 +77,7 @@ namespace AccountApp.BOL.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Role")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

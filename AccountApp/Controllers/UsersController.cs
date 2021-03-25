@@ -55,6 +55,7 @@ namespace AccountApp.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,Phone,Email,Address,Role")] User user)
         {
+            user.Role = Constants.Client;
             if (ModelState.IsValid)
             {
                 _context.Add(user);

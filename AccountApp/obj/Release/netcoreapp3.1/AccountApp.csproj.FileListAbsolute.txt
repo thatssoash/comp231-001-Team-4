@@ -180,3 +180,8 @@ C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\AccountApp.dll
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\AccountApp.pdb
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\AccountApp.genruntimeconfig.cache
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs

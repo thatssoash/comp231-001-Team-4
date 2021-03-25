@@ -25,12 +25,22 @@ namespace AccountApp.BOL.Repository
 
         public bool Delete(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var form = _db.CustomForms.Find(id);
+                _db.CustomForms.Remove(form);
+                _db.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
 
         public CustomForm GetCustomForm(int id)
         {
-            throw new NotImplementedException();
+            return _db.CustomForms.Find(id);
         }
 
         public IEnumerable<CustomForm> GetCustomForms()
@@ -58,7 +68,16 @@ namespace AccountApp.BOL.Repository
 
         public bool Update(CustomForm form)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _db.Update<CustomForm>(form);
+                _db.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
     }
 }

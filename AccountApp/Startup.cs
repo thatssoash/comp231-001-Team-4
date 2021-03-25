@@ -29,6 +29,8 @@ namespace AccountApp
             services.AddControllersWithViews();
             services.AddTransient<IBusinessDBL, BusinessDBL>();
             services.AddTransient<IUsersDBL, UsersDBL>();
+            services.AddTransient<IFormDBL, FormDBL>();
+            services.AddTransient<IFormDBL, FormDBL>();
 
             services.AddDbContext<AccountAppDbContext>(options =>
                             options.UseSqlServer(@"Server=accountappdb.database.windows.net;Database=AccountAppDB;User Id=accountappdbAdmin;password=Account@123;Trusted_Connection=False;")

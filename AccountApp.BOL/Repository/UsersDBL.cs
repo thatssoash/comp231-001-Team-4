@@ -23,12 +23,22 @@ namespace AccountApp.BOL.Repository
         }
         public bool Delete(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var user = _db.Users.Find(id);
+                _db.Users.Remove(user);
+                _db.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
 
         public User GetUser(int id)
         {
-            throw new NotImplementedException();
+            return _db.Users.Find(id); ;
         }
 
         public IEnumerable<User> GetUsers()
@@ -57,7 +67,16 @@ namespace AccountApp.BOL.Repository
 
         public bool Update(User user)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _db.Update<User>(user);
+                _db.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
     }
 }

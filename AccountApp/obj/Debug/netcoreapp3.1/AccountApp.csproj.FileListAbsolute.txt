@@ -217,3 +217,8 @@ C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Debug\n
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\AccountApp20210324040034 - Web Deploy\mssql1.arm.json
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\AccountApp20210324040034 - Web Deploy\profile.arm.json
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs

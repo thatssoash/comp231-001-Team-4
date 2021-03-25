@@ -23,7 +23,7 @@ namespace AccountApp.BOL
 
         [Required]
         public string Address { get; set; }
-        [Required]
+
         public string Role { get; set; }
     }
 }

@@ -8866,6 +8866,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp.BOL\\AccountApp.BOL.csproj": {
               "projectPath": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp.BOL\\AccountApp.BOL.csproj"
@@ -8881,6 +8882,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -8919,7 +8921,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

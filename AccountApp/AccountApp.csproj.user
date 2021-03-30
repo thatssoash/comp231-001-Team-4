@@ -14,6 +14,6 @@
     <WebStackScaffolding_DbContextTypeFullName>AccountApp.BOL.AccountAppDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>AccountApp20210324040034 - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\Properties\PublishProfiles\AccountApp20210324040034 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

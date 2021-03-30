@@ -1,10 +1,5 @@
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\appsettings.Development.json
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\appsettings.json
-C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\Properties\serviceDependencies.AccountApp20210324040034 - Web Deploy.json
-C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\AccountApp20210324040034 - Web Deploy\mssql1.arm.json
-C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\AccountApp20210324040034 - Web Deploy\profile.arm.json
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\AccountApp.exe
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\AccountApp.deps.json
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\bin\Release\netcoreapp3.1\AccountApp.runtimeconfig.json
@@ -185,3 +180,9 @@ C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\scopedcss\bundle\AccountApp.styles.css
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\CustomForms\Create.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\CustomForms\Delete.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\CustomForms\Details.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\CustomForms\Edit.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\CustomForms\Index.cshtml.g.cs

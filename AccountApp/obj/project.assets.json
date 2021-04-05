@@ -8842,20 +8842,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thinksysuser\\.nuget\\packages\\": {}
+    "C:\\Users\\Maziar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp\\AccountApp.csproj",
+      "projectUniqueName": "C:\\Users\\Maziar\\Source\\Repos\\comp231-001-Team-4\\AccountApp\\AccountApp.csproj",
       "projectName": "AccountApp",
-      "projectPath": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp\\AccountApp.csproj",
-      "packagesPath": "C:\\Users\\Thinksysuser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp\\obj\\",
+      "projectPath": "C:\\Users\\Maziar\\Source\\Repos\\comp231-001-Team-4\\AccountApp\\AccountApp.csproj",
+      "packagesPath": "C:\\Users\\Maziar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maziar\\Source\\Repos\\comp231-001-Team-4\\AccountApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Thinksysuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Maziar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8868,8 +8876,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp.BOL\\AccountApp.BOL.csproj": {
-              "projectPath": "C:\\Users\\Thinksysuser\\Documents\\GitHub\\comp231-001-Team-4\\AccountApp.BOL\\AccountApp.BOL.csproj"
+            "C:\\Users\\Maziar\\Source\\Repos\\comp231-001-Team-4\\AccountApp.BOL\\AccountApp.BOL.csproj": {
+              "projectPath": "C:\\Users\\Maziar\\Source\\Repos\\comp231-001-Team-4\\AccountApp.BOL\\AccountApp.BOL.csproj"
             }
           }
         }

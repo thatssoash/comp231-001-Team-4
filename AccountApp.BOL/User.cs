@@ -25,5 +25,7 @@ namespace AccountApp.BOL
         public string Address { get; set; }
 
         public string Role { get; set; }
+        public int UserRolesId { get; set; }
+        public UserRoles UserRole { get; set; }
     }
 }

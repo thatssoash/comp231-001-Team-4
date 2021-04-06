@@ -23,5 +23,6 @@ namespace AccountApp.BOL
         public DbSet<Business> Businesses { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<CustomForm> CustomForms { get; set; }
+        public DbSet<UserRoles> UserRoles { get; set; }
     }
 }

@@ -31,6 +31,7 @@ namespace AccountApp
             services.AddTransient<IUsersDBL, UsersDBL>();
             services.AddTransient<IFormDBL, FormDBL>();
             services.AddTransient<IFormDBL, FormDBL>();
+            services.AddTransient<IUserRolessDBL, UserRolesDBL>();
 
             services.AddDbContext<AccountAppDbContext>(options =>
                             options.UseSqlServer(@"Server=accountappdb.database.windows.net;Database=AccountAppDB;User Id=accountappdbAdmin;password=Account@123;Trusted_Connection=False;")

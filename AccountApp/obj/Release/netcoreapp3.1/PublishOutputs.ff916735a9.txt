@@ -1,6 +1,16 @@
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\AccountApp.exe
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\site.css
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\acc-bann - Copy.png
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\acc-bann.jpeg
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\acc-bann.png
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\accountan-mant.jpg
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\accteam.jpg
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\cc2logo.jpg
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\cencalogo.jpg
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Company.png
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Personal.png
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Registration.png
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\site.js
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

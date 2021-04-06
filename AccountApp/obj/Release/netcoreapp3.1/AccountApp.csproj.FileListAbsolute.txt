@@ -186,3 +186,8 @@ C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\CustomForms\Details.cshtml.g.cs
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\CustomForms\Edit.cshtml.g.cs
 C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\CustomForms\Index.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\UserRoles\Create.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\UserRoles\Delete.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\UserRoles\Details.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\UserRoles\Edit.cshtml.g.cs
+C:\Users\Thinksysuser\Documents\GitHub\comp231-001-Team-4\AccountApp\obj\Release\netcoreapp3.1\Razor\Views\UserRoles\Index.cshtml.g.cs
